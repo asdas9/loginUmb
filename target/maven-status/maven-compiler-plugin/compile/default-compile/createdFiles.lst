@@ -1,0 +1,6 @@
+com\umb\loginumb\JAXRSConfiguration.class
+modelo\Validar.class
+modelo\Cliente.class
+modelo\ClienteDAO.class
+com\umb\loginumb\resources\JavaEE8Resource.class
+controlador\Controlador.class
